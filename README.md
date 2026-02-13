@@ -1,7 +1,7 @@
 <div align="center">
   <img src="logo.png" alt="sandbox-autogen" width="512"/>
 
-  **🤖 Sandbox for experimenting with Microsoft AutoGen multi-agent framework**
+  **🤖 Sandbox for experimenting with Microsoft AutoGen multi-agent framework 🧪**
 
 </div>
 
