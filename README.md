@@ -1,8 +1,10 @@
-<div align="center">
+<p align="center">
   <img src="./logo.png" alt="sandbox-autogen" width="420" />
-
-  **🤖 Sandbox for experimenting with Microsoft AutoGen multi-agent framework 🧪**
-</div>
+  <br />
+  <!-- repo-tagline:start -->
+  <strong>🤖 Sandbox for experimenting with Microsoft AutoGen multi-agent framework 🧪</strong>
+  <!-- repo-tagline:end -->
+</p>
 
 sandbox-autogen is a small Python sandbox for trying Microsoft AutoGen agent patterns with OpenAI models. It includes a single-agent example, a multi-agent team with a web surfer, and one legacy example that shows the older synchronous API shape.
 
